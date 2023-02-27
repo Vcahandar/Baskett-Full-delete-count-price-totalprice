@@ -1,0 +1,37 @@
+#nav-area {
+    background-color: gray;
+}
+
+#nav-area .icon a {
+    text-decoration: none;
+
+}
+
+#nav-area .icon i {
+    font-size: 30px;
+    color: white;
+}
+
+sup{
+    font-size: 14px;
+    top: -1.5em !important;
+    color: white;
+}
+
+#basket h1{
+    
+    text-align: center;
+}
+
+
+tbody img{
+    width: 150px;
+    height: 150px;
+}
+
+
+.delete-icon{
+    cursor: pointer;
+    color: red;
+    font-size: 25px;
+}

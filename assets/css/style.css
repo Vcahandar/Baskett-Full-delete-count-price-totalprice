@@ -1,0 +1,22 @@
+#nav-area {
+    background-color: gray;
+}
+
+#nav-area .icon a {
+    text-decoration: none;
+
+}
+
+#nav-area .icon i {
+    font-size: 30px;
+    color: white;
+}
+
+sup{
+    font-size: 14px;
+
+    top: -1.5em !important;
+    color: white;
+}
+
+
